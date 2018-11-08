@@ -12,7 +12,7 @@ ol{
 
 .cp_list {
 	margin-left:20px;
-	font-size: 0.8rem;
+	font-size: 0.7rem;
 	list-style: none;
 	margin-left:100px;
 }
@@ -22,7 +22,7 @@ ol{
 	padding: 0.5em 1em 0.5em 2.3em;
 	margin-bottom:5px;
 	border-bottom: 1px solid #c0c0c0;
-	font-size: 0.8rem;
+	font-size: 0.7rem;
 	counter-increment: hl_count;
 }
 .cp_list li:after,
